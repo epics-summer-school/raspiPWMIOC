@@ -1,4 +1,4 @@
-#!../../bin/linux-x86_64/raspiPWM
+#!../../bin/linux-aarch64/raspiPWM
 
 epicsEnvSet("ENGINEER","HZB Student")
 
